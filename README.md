@@ -1,3 +1,3 @@
 # HackerRank
 
-HackerRank Java Problems 
+HackerRank Java Problem solutions
